@@ -13,9 +13,19 @@
 
 The .so file is extracted from OpenGapps.
 
+</br>
+
 > ## Download
 
 soon
+
+</br>
+
+> ## Testing
+
+This build is currently UNTESTED! Do kindly test it and let me know in the Issues section
+
+</br>
 
 > ## Credits
 
