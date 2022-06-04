@@ -1,6 +1,6 @@
 id=google_glide_lib
-name=Google Glide Typing library
+name=GlideLib (ARM64)
 version=1.0
 versionCode=1
 author=NullCode1337 and akaessens
-description=Install Google Glide typing library for AOSP keyboard when GApps are not installed
+description=Install Google Glide typing library on arm64 platform
