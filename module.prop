@@ -3,4 +3,4 @@ name=GlideLib (ARM64)
 version=1.0
 versionCode=1
 author=NullCode1337 and akaessens
-description=Install Google Glide typing library on arm64 platform
+description=Install Google Glide typing library for AOSP keyboard on arm64 platform
