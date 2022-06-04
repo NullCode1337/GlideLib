@@ -1,6 +1,6 @@
 id=glide_lib_magisk
-name=Google Glide Typing library
+name=GlideLib (ARM)
 version=1.0
 versionCode=1
 author=NullCode1337
-description=Install Google Glide typing library for AOSP keyboard when GApps are not installed
+description=Install Google Glide typing library for AOSP keyboard on arm platform
