@@ -1,6 +1,6 @@
-id=google_glide_lib
+id=glide_lib_magisk
 name=Google Glide Typing library
-version=0.1
+version=1.0
 versionCode=1
-author=akaessens
+author=NullCode1337
 description=Install Google Glide typing library for AOSP keyboard when GApps are not installed
