@@ -13,11 +13,11 @@
 
 The .so file is extracted from OpenGapps.
 
-## Download
+> ## Download
 
 soon
 
-## Credits
+> ## Credits
 
 1. [akaessens](https://github.com/akaessens) for original concept
 2. [NullCode1337](https://github.com/NullCode1337) for porting the project to arm platform
