@@ -1,16 +1,20 @@
-# Google Glide lib
+---
 
-This Magisk module installs the proprietary Google Glide library file `libjni_latinimegoogle.so` to `/system/lib64`.
+![Main Image](https://user-images.githubusercontent.com/70959549/172017196-e415bfbe-c874-4494-b577-dca21e199dce.png)
 
-It is used to enable Glide Typing on ROMs with AOSP keyboard without the need to install the GApps package.
-Of course it can be used alongside a microG installation.
+<h3 align=center>Glide freely, without extra bloat</h3>
 
-The library file is extracted from OpenGapps.
+---
 
-## Build
+> ## What is it?
+- This module installs the proprietary Google Glide Typing library `libjni_latinimegoogle.so` to your system
+- It does it systemlessly (which is cool)
+- This module is recommended to be used along a microG installation 
+The .so file is extracted from OpenGapps.
 
-```bash
-wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.com/topjohnwu/Magisk/master/scripts/module_installer.sh
-zip google_glide_lib.zip -9r *
-```
+> ## Download
+soon
 
+> ## Credits
+1. [akaessens](https://github.com/akaessens) for original concept
+2. [NullCode1337](https://github.com/NullCode1337) for porting the project to arm platform
