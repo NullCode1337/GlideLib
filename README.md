@@ -13,9 +13,19 @@
 
 The .so file is extracted from OpenGapps.
 
+</br>
+
 > ## Download
 
 soon
+
+</br>
+
+> ## Testing
+
+This build is tested and fully works on HavocOS 4.16 (Android 11) with MicroG manual install
+
+</br>
 
 > ## Credits
 
