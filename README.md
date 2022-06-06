@@ -17,8 +17,8 @@ The .so file is extracted from OpenGapps.
 
 > ## Download
 
-ARM64: [Github Releases](https://github.com/NullCode1337/GlideLib/releases/download/v1.0/GlideLib-Magisk_arm64.zip)
-ARM:   [Github Releases](https://github.com/NullCode1337/GlideLib/releases/download/v1.0/GlideLib-Magisk_arm.zip)
+- ARM:   [Github Releases](https://github.com/NullCode1337/GlideLib/releases/download/v1.0/GlideLib-Magisk_arm.zip)
+- ARM64: [Github Releases](https://github.com/NullCode1337/GlideLib/releases/download/v1.0/GlideLib-Magisk_arm64.zip)
 
 </br>
 
