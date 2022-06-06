@@ -23,7 +23,7 @@ soon
 
 > ## Testing
 
-ARM64 build is currently UNTESTED! Do kindly test it and let me know in the Issues section
+ARM64 build is currently UNTESTED! Do kindly test it and let me know in the Issues section</br>
 ARM build is tested and fully working on HavocOS 4.16 (Android 11) with MicroG manual install
  
 </br>
